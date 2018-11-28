@@ -6,9 +6,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2ea293-6cba-4f38-8cb6-9a988bf52b21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java" afterDir="false" />
+    <list default="true" id="91df7788-3c29-4751-b737-a0900b567fc8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/core/src/com/rocoman/game/Scenes/Hud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/annotation-processors.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/rocoman/game/Rocoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/rocoman/game/Rocoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/rocoman/game/Screens/PlayScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/rocoman/game/Screens/PlayScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/com/rocoman/game/Rocoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/rocoman/game/Rocoman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,14 +45,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Rocoman.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rocoman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Rocoman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,8 +60,22 @@
       <file leaf-file-name="PlayScreen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="19">
+              <caret line="32" column="1" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hud.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Scenes/Hud.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -3085,25 +3112,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java" />
         <option value="$PROJECT_DIR$/core/src/com/rocoman/game/Rocoman.java" />
+        <option value="$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java" />
+        <option value="$PROJECT_DIR$/core/src/com/rocoman/game/Scenes/Hud.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="22" />
     <option name="y" value="6" />
-    <option name="width" value="1013" />
+    <option name="width" value="1117" />
     <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -3127,6 +3158,13 @@
               <item name="core" type="e9137016:NonAndroidModuleNode" />
               <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="Scenes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rocoman" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
               <item name="Screens" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -3136,6 +3174,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="core" />
+    <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
@@ -3153,7 +3193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.desktop">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -3223,13 +3263,13 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="desktop" type="Application" factoryName="Application">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.rocoman.game.desktop.DesktopLauncher" />
       <module name="desktop" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/android/assets" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -3259,7 +3299,7 @@
     </configuration>
     <list>
       <item itemvalue="Android App.android" />
-      <item itemvalue="Application.desktop" />
+      <item itemvalue="Application.Unnamed" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -3267,16 +3307,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b2ea293-6cba-4f38-8cb6-9a988bf52b21" name="Default" comment="" />
-      <created>1543311239090</created>
+      <changelist id="91df7788-3c29-4751-b737-a0900b567fc8" name="Default" comment="" />
+      <created>1543394221519</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543311239090</updated>
+      <updated>1543394221519</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="6" width="1013" height="1038" extended-state="0" />
+    <frame x="22" y="6" width="1117" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -3286,20 +3326,20 @@
       <window_info id="Build Variants" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29066107" />
-      <window_info anchor="bottom" id="Build" weight="0.33666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19583727" />
+      <window_info anchor="bottom" id="Build" weight="0.33555555" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -3313,24 +3353,40 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java">
+    <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Rocoman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Rocoman.java">
+    <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Screens/PlayScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="19">
+          <caret line="32" column="1" selection-end-line="65" />
           <folding>
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/rocoman/game/Scenes/Hud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
